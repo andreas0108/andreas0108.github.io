@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to Andreas0108 Repository Pages
 
-You can use the [editor on GitHub](https://github.com/andreas0108/andreas0108.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is showcase from my public repo works.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreas0108/andreas0108.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## List Project : 
+1. [PHP MVC](https://github.com/andreas0108/phpmvc) _(MVC method in PHP, using bootstrap, native php and ajax.)_
+2. [Multi Level Login with CodeIgniter](https://github.com/andreas0108/ci-multi-level-login) _(Rework.)_
+3. [Convert UNIX to Indonesian Format Date & Time](https://github.com/andreas0108/unix-tglindo-ci3) _(CodeIgniter 3.x Helpers to convert UNIX Timestamp -> Indonesian Date Format)_
+4. [Admin LTE 3 integration to CodeIgniter 3](https://github.com/andreas0108/CI3-AdminLte3-Dashboard) _(Rework.)_
